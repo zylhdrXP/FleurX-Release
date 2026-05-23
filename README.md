@@ -1,5 +1,5 @@
 # FleurX-Release
 
-KSUN = KSUN + SUSFS
-Droidspaces = KSUN NO SUSFS
-Vanilla = Non Root
+- KSUN = KSUN + SUSFS
+- Droidspaces = KSUN NO SUSFS
+- Vanilla = Non Root
